@@ -1,0 +1,11 @@
+.max-height {
+  min-height: 100vh;
+}
+
+body {
+  background: #b09e99;
+}
+
+.quote-container {
+  background: rgba(96, 96, 96, 0.5);
+}
